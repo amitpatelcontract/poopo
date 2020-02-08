@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "retainyoutest",
+  "private_key_id": "a808e998a1cc8bc8291daed1380e8e479411d8ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbteWOnIqG1vxR\nhBTlaDS7AJRmIR/qrYDZCj3CgUYxK/Y+KX8TQ0EBd/QV/wvCxBgQU5z6/TlCbaUh\ngjxbTsIxE6JFa3CVhv+Z3g7oUGhVeH+eFk6K98Rp4GvVvGuxlF0HYIIuR1zDvesI\n1hzTm8p10wCNVoHqwD3BbAHCqrOLZu5h4AGHBEA18hrJt+boHps1z64NN5ol9CAK\nCs/6Axq/vtFxvS96ISQwbDuqDW38ulngvmxUdY7sHafFzZrhXrUq9DV8VVhhB4md\n6YRnvCLZ7I8zGia1myk3tIKmoM1b8lbCY4VP184dDsUi77IDAIq9gnR1AYh4ucOr\nqn2byEP3AgMBAAECggEAI+Pv2ZRa0LINH6fK3hAKum2FewrNiEF1eymVcyY4+CQC\nop7sDOfUlk/TsJrW1KcXIzugDiQQFs41xmaG7jIhvhtDS8HERLjRHNUjFvIOSRVZ\nC32rW5TOd1kwubErinj+RWE6LXh81SuQrwMtoaehCA7tgn5vfzs4xgBFvVizNwHO\nUqm1Q6APKz9B/HXvmNFYJ14QZm6fhqCUhpLT7QBInh8NMCEAr2nxvRLMuwhjdWjg\nlRTaQmvoPYzYhhtkp3udyf457fGPFUgjSn+W1sSRK5exe8QnHYV+1psuBHaguUTf\n41gxxi8BqjVvctNwICa08ACdmXRVVM9TRxs0wExT4QKBgQDtSC1p/NeQTWHtwpbP\n9znF9ccDTNP+5LCs+Sg3N5Usr6/NT7HTeR7tPDirv2rq8N6iqHPId43CbWR9JeF0\nMWITIwank9zaTq99sRgDlS58xJudH0lHuYgZuxGHJ9X6vWgw4n/Xg3iVILOzkYn2\ng6MFgB3HIJyAdRuc/X3EtDhjpwKBgQDtCt7/1Jc4+dd+WGTdSy5hevcUtEfihDE1\nYDXrinoaQmkWX7v3VH0CkaszkfjdR/+RnUemnUESkFhFYELfLQb058PicWPtURXR\nqKmVxvxhojpvIRBu+FRZYdqo7P1oxtmS4wEGVmiVgZ47NZ2eA+KDGDpWYcNtZFw8\n7LfprJNnMQKBgQCv5voDwHTtfPBEGiVDNruVjYZjY+kk5NQ05uBxTrs/zV4+jf3+\nD6Rlqmc4q0bPtJDXdJmg20A0CnScciCYyqMyHJ0qTetDy2E9hLOQtF8qD3ZtHGxu\nx5Olv5BW6akvoIpE8yRi2AvkQcH2NMZaAWww/7ETlZFviWFXGHTMBe5nsQKBgDHx\nSGq+b94hRbXpCddWL796GPTTxxGCqJuGWdX2pyNBOsLsCL5jnrMb3eZPqw90S/Ry\nHtaL61nt76suTOiYpA6Vhj//g/5MRzyVPKXB9wrbE1S2sq+uwpbSdy+APyQEQXMh\nQOYE7qQRWzU+ZqcUSnU0dZYdov85VfXAKj+hjK0BAoGBAOdEnz6+C5oiaNy8AETk\nuRKRuD/MBrrxQ9xwyERFj6Z6ZRPw9CPxOdFc3S/7L9UVLSG4cqtOa0eQ3ODIUsNQ\nN1jrnw86bL1R03UqLXkGX6+RANBvm8b8YCmUjYX0BmMYu6rizUNfb3hWQucoxlr9\nG0J7CMUeFLizkdNEJ0Dir2DG\n-----END PRIVATE KEY-----\n",
+  "client_email": "retainu-frontend@retainyoutest.iam.gserviceaccount.com",
+  "client_id": "103292364572280183850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/retainu-frontend%40retainyoutest.iam.gserviceaccount.com"
+}
